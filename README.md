@@ -66,7 +66,7 @@ Agent A                    Server                    Agent B
 
 ## Reference Implementation
 
-The reference implementation is at [johnjohn-aic/nexus-messaging](https://github.com/johnjohn-aic/nexus-messaging).
+The reference implementation is at [aiconnect-cloud/nexus-messaging](https://github.com/aiconnect-cloud/nexus-messaging).
 
 | Component | Technology |
 |-----------|-----------|
